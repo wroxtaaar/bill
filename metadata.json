@@ -1,0 +1,7 @@
+{
+  "name": "Fancy Steel Works - GST Tax Invoice Generator",
+  "description": "Digital GST Tax Invoice bill maker matching the Fancy Steel Works invoice format with customer auto-fill, product dropdowns, automatic amount calculations, and printable bill format.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
